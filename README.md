@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Ibrahim — Junior SOC Analyst & Security Enthusiast
+# 👋 Hi, I'm Ibrahim — A SOC Analyst & Security Enthusiast
 
 Welcome to my cybersecurity learning space.  
-This repository documents my journey as I grow from a junior SOC analyst into a well‑rounded security professional. I use this space to build projects, practice detection engineering, break things safely, and connect with others who share the same passion for security.
+This repository documents my journey as I grow from a SOC analyst into a well‑rounded security professional. I use this space to build projects, practice detection engineering, break things safely, and connect with others who share the same passion for security.
 
 ---
 
 ## 🔐 About Me
 
-- Junior SOC Analyst focused on continuous learning  
+- SOC Analyst focused on continuous learning  
 - Passionate about threat detection, incident response, and hands‑on security labs  
 - Building a strong foundation in SIEM, EDR, KQL, and adversary simulation  
 - Always experimenting with new tools, techniques, and defensive strategies  
